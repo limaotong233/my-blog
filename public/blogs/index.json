@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "slug": "create-blog",
+    "title": "个人博客搭建指南",
+    "tags": [
+      "blog"
+    ],
+    "date": "2026-05-07T18:00",
+    "summary": "",
+    "hidden": false,
+    "category": ""
+  }
+]
