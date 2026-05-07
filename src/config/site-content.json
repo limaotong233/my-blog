@@ -45,12 +45,19 @@
 			"label": "Github",
 			"order": 1
 		},
-		{
-			"id": "button-1778149045916",
+			{
+			"id": "email",
 			"type": "email",
-			"value": "limaotong163@163",
-			"label": "",
+			"value": "limaotong163@163.com",
+			"label": "邮箱",
 			"order": 2
+		},
+		{
+			"id": "wechat",
+			"type": "wechat",
+			"value": "lmt13125927068",
+			"label": "微信",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
