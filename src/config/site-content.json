@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "limaotong233",
-		"description": "limaotong233 的个人博客",
-		"username": "limaotong233"
+		"title": "limaotong's blog",
+		"description": "limaotong的个人博客",
+		"username": "limaotong"
 	},
 	"theme": {
 		"colorBrand": "#2fcbe7",
@@ -19,8 +19,13 @@
 		"#8fdbe9",
 		"#fffef8"
 	],
-	"artImages": [],
-	"currentArtImageId": "",
+	"artImages": [
+		{
+			"id": "9a7e5824f3c0cb94",
+			"url": "/images/art/9a7e5824f3c0cb94.jpg"
+		}
+	],
+	"currentArtImageId": "9a7e5824f3c0cb94",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -35,6 +40,13 @@
 			"value": "https://github.com/limaotong233",
 			"label": "Github",
 			"order": 1
+		},
+		{
+			"id": "button-1778149045916",
+			"type": "email",
+			"value": "limaotong163@163",
+			"label": "",
+			"order": 2
 		}
 	],
 	"clockShowSeconds": false,
