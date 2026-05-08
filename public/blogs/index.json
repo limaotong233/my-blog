@@ -1,5 +1,15 @@
 [
   {
+    "slug": "metabot",
+    "title": "MetaBot 配置指南：从 0 到 1 实现飞书远程控制 Claude Code",
+    "tags": [],
+    "date": "2026-05-08T15:42",
+    "summary": "通过飞书对话远程控制你的Claude Code",
+    "cover": "/blogs/metabot/98a5d7d5b5639b12.jpg",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "create-blog",
     "title": "个人博客搭建指南",
     "tags": [
