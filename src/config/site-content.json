@@ -19,8 +19,13 @@
 		"#8fdbe9",
 		"#fffef8"
 	],
-	"artImages": [],
-	"currentArtImageId": "",
+	"artImages": [
+		{
+			"id": "0f103f182aa668a5",
+			"url": "/images/art/0f103f182aa668a5.jpg"
+		}
+	],
+	"currentArtImageId": "0f103f182aa668a5",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -50,8 +55,8 @@
 	],
 	"clockShowSeconds": false,
 	"summaryInContent": false,
-	"isCachePem": false,
-	"hideEditButton": false,
+	"isCachePem": true,
+	"hideEditButton": true,
 	"enableCategories": true,
 	"currentHatIndex": 0,
 	"hatFlipped": false,
